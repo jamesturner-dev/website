@@ -40,7 +40,7 @@ const c = ref(
 
 		primary: {
 			text: 'See This Code',
-			link: 'https://github.com/jamesturner-dev/front-end.us',
+			link: 'https://github.com/jamesturner-dev/website',
 		},
 
 		secondary: {

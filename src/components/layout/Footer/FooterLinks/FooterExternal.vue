@@ -13,7 +13,7 @@
 
 <script setup>
 const external = [
-  { name: "This Code", href: "https://github.com/jamesturner-dev/front-end.us" },
+  { name: "This Code", href: "https://github.com/jamesturner-dev/website" },
   { name: "Headlin3s", href: "https://headlin3s.com" },
   { name: "Me on Twitter", href: "https://twitter.com/JamesTurnerDev" },
   { name: "FrontEnd.us", href: "https://front-end.us/" },

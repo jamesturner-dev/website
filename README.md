@@ -32,7 +32,7 @@ npm run build
 
 ### More Help and information
 There is a question and answer section on the site: 
-[Front-End.us Help](https://jamesturner.dev/page/help)
+[Help](https://jamesturner.dev/page/help)
 
 You can also open an issue on the repo.
 

@@ -1,11 +1,8 @@
 <template>
   <div class="mt-5 ">
     <HeroSection />
-    <TheSpacer />
-    <div class="flex">
-      <div></div>
+     <TheSpacer />  
       <BlogEntries />
-    </div>
     <TheSpacer />
     <ProjectSection />
   </div>

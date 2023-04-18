@@ -17,7 +17,7 @@
     <p>
       The most common use of the web form is as a way to contact a website's owner. This
       brings up the issue of what do you do when a contact form is submitted? Traditionally
-      contact forms sent a website admin an email. Maybe the forms content is also added to
+      contact forms sent a website admin an email. Maybe the form's content is also added to
       a contacts database.
     </p>
     <p>
@@ -62,7 +62,7 @@
       Form Endpoints
     </h4>
     <p>
-      That brings us to fourth option - third party endpoints. These are services that provide
+      That brings us to the fourth option - third party endpoints. These are services that provide
       APIs that you can send your form data to. Basically you are subcontracting handling form
       data to a third party. I had no idea how many services like this exist. There are three
       that I can recommend:

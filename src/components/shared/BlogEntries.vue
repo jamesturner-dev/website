@@ -45,7 +45,7 @@ const activityItems = [
       imageUrl:
         'https://images.unsplash.com/photo-1593720216276-0caa6452e004?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fGphdmFzY3JpcHR8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60',
     },
-    projectName: 'Why VueJs is my prefered framework.',
+    projectName: 'Why VueJs is my preferred framework.',
     date: '2023-01-23',
     url: '/blog/why-vue',
   },
@@ -64,7 +64,7 @@ const activityItems = [
       imageUrl: 'https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fHdlYnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60',
     },
     date: '2023-03-24',
-    projectName: 'There are no small coponents.  Everything is important',
+    projectName: 'There are no small components.  Everything is important',
     url: '/blog/web-form',
   },
 ]

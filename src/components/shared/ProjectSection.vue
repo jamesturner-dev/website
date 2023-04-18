@@ -92,7 +92,7 @@ const projects = [
     id: 2,
     name: 'Scraping Trump Tweets',
     imageUrl: 'https://imagedelivery.net/jUv0WjkQAcJxE0kRYIap3Q/71e4c3dd-0c37-406a-69b7-ade338eb9800/public',
-    lastInvoice: { date: 'Marrch 22, 2023', dateTime: '2023-01-22', amount: 'Python . Pandas . Requests . BeautifulSoup', status: 'Progress' },
+    lastInvoice: { date: 'March 22, 2023', dateTime: '2023-01-22', amount: 'Python . Pandas . Requests . BeautifulSoup', status: 'Progress' },
     url: 'https://trumptweets.net',
     description: 'A set of Python scripts that scrapes Twitter and stores the data in a MongoDB database.'
   },

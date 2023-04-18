@@ -18,8 +18,8 @@ const siteInfo = ref(
     subTitle: "JamesTurner",
     title: '.dev',
     url: '/',
-    repository: 'https://github.com/jamesturner-dev/front-end.us',
-    aText: 'Modern, Custom Full Stack Development'
+    repository: '/page/about',
+    aText: 'Modern, Custom, Full Stack Development'
   }
 );
 </script>

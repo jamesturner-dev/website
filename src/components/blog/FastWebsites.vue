@@ -11,6 +11,8 @@
       stick around to see your content.
     </p>
 
+    <LilSpacer />
+
     <p>
       That is why, imho, website speed is fundamental.
       What good is a great looking website if almost nobody waits for it to load?
@@ -28,7 +30,7 @@
     </h4>
 
     <p>
-      I'm have often been hired to fix these kinds of sites. However without some serious
+      I have often been hired to fix these kinds of sites. However without some serious
       compromises the best I can often do is tinker around the edges. To build a site that
       is very robust you have to take a holistic approach. Even still, I can often speed up
       these behemoths by using next gen image formats, deferring JavaScript, removing
@@ -50,9 +52,9 @@
 
     <p>
       The next mistake people make is choosing a CMS like WordPress and loading it with plugins
-      and page-makers. It's is possible to build a fast WordPress site but they are few and far
+      and page-makers. It's possible to build a fast WordPress site but they are few and far
       between in the real world. Most people that use WordPress pick a heavy theme, use a page
-      builder like Elementor, and load up on plugins. Each layer adds to the sites footprint and
+      builder like Elementor, and load up on plugins. Each layer adds to the site's footprint and
       makes it slower. Add that to having to make database calls for each page view to a shared
       MySQL server and it's easy to see why WP sites are generally so slow.
     </p>
@@ -72,7 +74,7 @@
 </template>
 
 <script setup>
-
+import LilSpacer from '../shared/LilSpacer.vue';
 import { ref } from 'vue';
 const content = ref(
   [

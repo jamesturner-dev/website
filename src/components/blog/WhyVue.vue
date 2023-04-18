@@ -1,7 +1,7 @@
 <template>
   <section class="mx-auto max-w-3xl space-y-4 px-5 my-10">
 
-    <p class="text-sky-600 text-xs"> Why I choose VueJs as my prefered framework</p>
+    <p class="text-sky-600 text-xs"> Why I choose VueJs as my preferred framework</p>
     <p class="text-3xl font-bold leading-8 tracking-tight text-neutral-600 sm:text-3xl">
       What makes Vue different
     </p>
@@ -42,7 +42,7 @@
     <p>
       Vue.js is simple to get started with. It has a small learning curve and is easier to
       pick up for newcomers to front-end development. That said, it is also powerful enough
-      to be used for large-scale front-end's while remaining performant.
+      to be used for large-scale front-end while remaining performant.
     </p>
     <p>
       Vue.js is very flexible and can be used in a variety of ways.

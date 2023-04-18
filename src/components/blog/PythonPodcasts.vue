@@ -8,7 +8,7 @@
 
     <p class="text-lg text-neutral-600">
       I don't do Python day to day anymore, but it is the first programming
-      language that I fell in love with. If you love it too give these podcasts a listen.
+      language that I fell in love with. If you love it too, give these podcasts a listen.
     </p>
 
     <LilSpacer />

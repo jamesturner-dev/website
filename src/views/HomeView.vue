@@ -1,6 +1,7 @@
 <template>
   <div class="mt-5 ">
     <HeroSection />
+    <TheSpacer />
     <div class="flex">
       <div></div>
       <BlogEntries />

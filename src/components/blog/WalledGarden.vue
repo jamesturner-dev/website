@@ -1,5 +1,5 @@
 <template>
-  <div class="mx-auto max-w-3xl space-y-4 px-5 my-10">
+  <section class="mx-auto max-w-3xl space-y-4 px-5 my-10">
 
     <p class="text-sky-600 text-xs">Independent Development: The Future of Software</p>
     <p class="text-3xl font-bold leading-8 tracking-tight text-neutral-600 sm:text-3xl">
@@ -64,7 +64,7 @@
       the apps they want without having to comply with restrictive guidelines. As consumers, we should support independent
       developers and seek out their apps whenever possible.</p>
 
-  </div>
+  </section>
 </template>
 
 <script setup>

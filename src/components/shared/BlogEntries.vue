@@ -1,8 +1,6 @@
 <template>
-  <div class="mx-auto max-w-lg p-5 pb-10">
-
+  <div class="mx-auto max-w-lg p-5 mt-10 pb-10">
     <ContentHeader :content="heading" />
-
     <ul role="list" class="divide-y divide-gray-700">
       <li v-for="item in activityItems" :key="item.commit" class="py-4">
         <div class="flex items-center gap-x-3">
@@ -60,7 +58,6 @@ const activityItems = [
     date: '2023-02-22',
     url: '/blog/python-podcasts',
   },
-
   {
     user: {
       name: 'Web Form',

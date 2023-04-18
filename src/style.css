@@ -12,7 +12,7 @@
   --blu-hover: #0FDBF2;
   --grene: rgb(132, 200, 135);
   --grene-hover: rgb(114, 200, 118);
-  --graye: #828a8c;
+  --graye: #878787;
 
 }
 
@@ -97,7 +97,7 @@ h1:hover {
 }
 
 .footerItem:hover {
-  color: #000;
+  color: rgb(186, 186, 186);
 }
 
 .footerWrapper h3 {
@@ -110,7 +110,8 @@ h1:hover {
 .footerNav {
   padding: 1.25rem;
   border-top-width: 1px;
-  border-color: rgb(229 231 235);
+  border-color: rgb(55, 55, 55);
+  margin: 0 1rem;
 }
 
 .formInput {

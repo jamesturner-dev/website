@@ -13,9 +13,9 @@
 
 <script setup>
 const external = [
-  { name: "My Resume", href: "https://jamesturner.dev/resume" },
-  { name: "Me on Twitter", href: "https://twitter.com/JamesTurnerDev" },
-  { name: "Get This Code", href: "https://github.com/jamesturner-dev/front-end.us" },
+  { name: "This Code", href: "https://github.com/jamesturner-dev/front-end.us" },
   { name: "Headlin3s", href: "https://headlin3s.com" },
+  { name: "Me on Twitter", href: "https://twitter.com/JamesTurnerDev" },
+  { name: "FrontEnd.us", href: "https://front-end.us/" },
 ]
 </script>

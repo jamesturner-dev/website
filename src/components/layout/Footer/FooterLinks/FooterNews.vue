@@ -13,9 +13,9 @@
 
 <script setup>
 const categories = [
-  { name: "Technology", href: "https://headlin3s.com/categories/Tech" },
-  { name: "The News", href: "https://headlin3s.com/categories/News" },
-  { name: "Online Video", href: "https://linkz.network/tag/video" },
-  { name: "Software", href: "https://linkz.network/cat/software" },
+  { name: "Technology", href: "https://headlin3s.com/cat/tech" },
+  { name: "The News", href: "https://headlin3s.com/cat/news" },
+  { name: "Youtube News", href: "https://headlin3s.com/tag/youtube" },
+  { name: "Podcasts", href: "https://headlin3s.com/tag/podcast" },
 ];
 </script> 

@@ -1,21 +1,19 @@
 <template>
-  <div class="mx-auto space-y-4 px-5">
-    
-    <h4>
-      When you just can't get enough Python
-    </h4>
-    
+  <section class="mx-auto max-w-3xl space-y-4 px-5 my-10">
+
+    <p class="text-sky-600 text-xs">When you just can't get enough Python</p>
     <p class="text-3xl font-bold leading-8 tracking-tight text-neutral-600 sm:text-3xl">
       Python Podcasts
     </p>
 
-    <p class="text-lg text-neutral-600 dark:text-neutral-400">
+    <p class="text-lg text-neutral-600">
       I don't do Python day to day anymore, but it is the first programming
       language that I fell in love with. If you love it too give these podcasts a listen.
     </p>
 
+    <LilSpacer />
 
-    <h4 class="">
+    <h4 class="text-lg font-semibold text-sky-600">
       <a href="https://talkpython.fm/">Talk Python to Me</a>
     </h4>
     
@@ -27,7 +25,7 @@
       recommended.
     </p>
     
-    <h4>
+    <h4 class="text-lg font-semibold text-sky-600 pt-5">
       <a href="https://www.pythonpodcast.com/">The Python Podcast.__init</a>
     </h4>
     
@@ -37,7 +35,7 @@
       learned. Tobias ensures that you get the most value for your time spent listening.
     </p>
 
-    <h4>
+    <h4 class="text-lg font-semibold text-sky-600 pt-5">
       <a href="https://www.stitcher.com/podcast/teaching-python">
         Now for something completely different....
       </a>
@@ -48,7 +46,7 @@
       teaching middle schoolers the Python programming language.
     </p>
 
-    <h4>
+    <h4 class="text-lg font-semibold text-sky-600 pt-5">
       <a href="https://www.kennethreitz.org/import-this/">
         Import This
       </a>
@@ -59,7 +57,7 @@
       there to be more tech podcasts. So they made our own - we should be grateful.
     </p>
 
-    <h4>
+    <h4 class="text-lg font-semibold text-sky-600 pt-5">
       <a href="https://pythonbytes.fm/">
         Python Bytes
       </a>
@@ -80,7 +78,7 @@
       have some interesting content to listen to:
     </p>
 
-    <ul class="text-lg text-neutral-100 mb-10 list-disc ml-5 marker:text-teal-600">
+    <ul class="text-lg text-neutral-100 mb-10 list-disc ml-5 marker:text-sky-600/50">
       <li>
         <a href="http://frompythonimportpodcast.com/">From Python Import Podcast</a>
       </li>
@@ -95,11 +93,11 @@
       </li>
     </ul>
 
-  </div>
+  </section>
 </template>
 
 <script setup>
-
+import LilSpacer from '../shared/LilSpacer.vue';
 import { ref } from 'vue';
 const content = ref(
   [

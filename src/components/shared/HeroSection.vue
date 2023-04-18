@@ -1,5 +1,5 @@
 <template>
-	<div class="mx-auto max-w-3xl mt-10 pt-10 pb-20 pl-5 md:pl-0">
+	<div class="mx-auto max-w-3xl mt-10 pt-5 pb-10 pl-5 md:pl-0">
 		<div class="hidden sm:mb-8 sm:flex sm:justify-center">
 			<div class="fakeButton">
 				<span class="text-neutral-600">

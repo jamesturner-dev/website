@@ -3,39 +3,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
    <url>
-      <loc>https://front-end.us/</loc>
-      <lastmod>2022-12-29</lastmod>
+      <loc>https://jamesturner.dev/</loc>
+      <lastmod>2023-3-29</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
 
    <url>
-      <loc>https://front-end.us/page/about</loc>
-      <lastmod>2022-12-29</lastmod>
+      <loc>https://jamesturner.dev/page/about</loc>
+      <lastmod>2023-3-29</lastmod>
       <changefreq>monthly</changefreq>
    </url>
 
    <url>
-      <loc>https://front-end.us/page/help</loc>
-      <lastmod>2022-12-23</lastmod>
+      <loc>https://jamesturner.dev/page/help</loc>
+      <lastmod>2023-3-23</lastmod>
       <changefreq>yearly</changefreq>
    </url>
 
    <url>
-      <loc>https://front-end.us/user/register</loc>
+      <loc>https://jamesturner.dev/page/contact</loc>
       <lastmod>2022-12-23T18:00:15+00:00</lastmod>
       <priority>0.3</priority>
    </url>
 
    <url>
-      <loc>https://front-end.us/user/login</loc>
-      <lastmod>2022-11-23</lastmod>
+      <loc>https://jamesturner.dev/blog/walled-garden</loc>
+      <lastmod>2023-4-18</lastmod>
       <priority>0.1</priority>
    </url>
 
    <url>
-      <loc>https://front-end.us/user/forgot</loc>
-      <lastmod>2022-11-23</lastmod>
+      <loc>https://jamesturner.dev/blog/why-vue</loc>
+      <lastmod>2023-4-13</lastmod>
       <priority>0.1</priority>
    </url>
 

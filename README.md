@@ -8,7 +8,7 @@
 - [TailwindCSS](https://tailwindcss.com/)
 - [HeadlessUI](https://headlessui.dev/)
 
-I've decided to make it open source so that others can learn from it, people can see what I think a logical stucture looks like, etc.
+I've decided to make it open source so maybe others can get value from it, can see what I think a logical stucture looks like, etc.
 
 ![screenshot](screenshot.webp)
 
@@ -38,7 +38,8 @@ You can also open an issue on the repo.
 
 ### Todo List
 
-- 99% or better Lighthouse score ( so close !)
+~~- 99% or better Lighthouse score ( so close !)~~
+![screenshot](speedTest.webp)
 
 ### License
 Copyright 2023 [James Turner Dev](https://james-turner.dev)
